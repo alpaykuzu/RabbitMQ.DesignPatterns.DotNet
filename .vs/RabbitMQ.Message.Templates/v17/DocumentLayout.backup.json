@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B96361B-82DC-4BE5-A36B-9C149DAD59DD}|RabbitMQ.WorkQueue.Publisher\\RabbitMQ.WorkQueue.Publisher.csproj|c:\\users\\alpay\\source\\repos\\rabbitmq.message.templates\\rabbitmq.workqueue.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B96361B-82DC-4BE5-A36B-9C149DAD59DD}|RabbitMQ.WorkQueue.Publisher\\RabbitMQ.WorkQueue.Publisher.csproj|solutionrelative:rabbitmq.workqueue.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB76ECCC-A387-4674-A078-34036828726B}|RabbitMQ.WorkQueue.Consumer\\RabbitMQ.WorkQueue.Consumer.csproj|c:\\users\\alpay\\source\\repos\\rabbitmq.message.templates\\rabbitmq.workqueue.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB76ECCC-A387-4674-A078-34036828726B}|RabbitMQ.WorkQueue.Consumer\\RabbitMQ.WorkQueue.Consumer.csproj|solutionrelative:rabbitmq.workqueue.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E54550A-F02C-45C6-91FF-ED18E8899148}|RabbitMQ.ReqRes.Publisher\\RabbitMQ.ReqRes.Publisher.csproj|c:\\users\\alpay\\source\\repos\\rabbitmq.message.templates\\rabbitmq.reqres.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E54550A-F02C-45C6-91FF-ED18E8899148}|RabbitMQ.ReqRes.Publisher\\RabbitMQ.ReqRes.Publisher.csproj|solutionrelative:rabbitmq.reqres.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6174A9B2-0241-4FA4-ADDF-68418FE85943}|RabbitMQ.ReqRes.Consumer\\RabbitMQ.ReqRes.Consumer.csproj|c:\\users\\alpay\\source\\repos\\rabbitmq.message.templates\\rabbitmq.reqres.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6174A9B2-0241-4FA4-ADDF-68418FE85943}|RabbitMQ.ReqRes.Consumer\\RabbitMQ.ReqRes.Consumer.csproj|solutionrelative:rabbitmq.reqres.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1633E758-E2A2-48AB-A9B9-DD5DFA2A97E1}|RabbitMQ.PubSub.Publisher\\RabbitMQ.PubSub.Publisher.csproj|c:\\users\\alpay\\source\\repos\\rabbitmq.message.templates\\rabbitmq.pubsub.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1633E758-E2A2-48AB-A9B9-DD5DFA2A97E1}|RabbitMQ.PubSub.Publisher\\RabbitMQ.PubSub.Publisher.csproj|solutionrelative:rabbitmq.pubsub.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEF14B1-C756-4499-B96A-4F36D72623D3}|RabbitMQ.PubSub.Consumer\\RabbitMQ.PubSub.Consumer.csproj|c:\\users\\alpay\\source\\repos\\rabbitmq.message.templates\\rabbitmq.pubsub.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEF14B1-C756-4499-B96A-4F36D72623D3}|RabbitMQ.PubSub.Consumer\\RabbitMQ.PubSub.Consumer.csproj|solutionrelative:rabbitmq.pubsub.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B1FCCC-B2FE-463D-9C82-AD7ABC5F312B}|RabbitMQ.P2P.Publisher\\RabbitMQ.P2P.Publisher.csproj|c:\\users\\alpay\\source\\repos\\rabbitmq.message.templates\\rabbitmq.p2p.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B1FCCC-B2FE-463D-9C82-AD7ABC5F312B}|RabbitMQ.P2P.Publisher\\RabbitMQ.P2P.Publisher.csproj|solutionrelative:rabbitmq.p2p.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B83C8-057C-4E1B-A2B2-40FC2FD5B582}|RabbitMQ.P2P.Consumer\\RabbitMQ.P2P.Consumer.csproj|c:\\users\\alpay\\source\\repos\\rabbitmq.message.templates\\rabbitmq.p2p.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197B83C8-057C-4E1B-A2B2-40FC2FD5B582}|RabbitMQ.P2P.Consumer\\RabbitMQ.P2P.Consumer.csproj|solutionrelative:rabbitmq.p2p.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.WorkQueue.Publisher\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.WorkQueue.Publisher\\Program.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.WorkQueue.Publisher\\Program.cs",
+              "RelativeToolTip": "RabbitMQ.WorkQueue.Publisher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:27:39.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.WorkQueue.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.WorkQueue.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.WorkQueue.Consumer\\Program.cs",
+              "RelativeToolTip": "RabbitMQ.WorkQueue.Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:27:35.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.ReqRes.Publisher\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.ReqRes.Publisher\\Program.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.ReqRes.Publisher\\Program.cs",
+              "RelativeToolTip": "RabbitMQ.ReqRes.Publisher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:27:32.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.ReqRes.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.ReqRes.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.ReqRes.Consumer\\Program.cs",
+              "RelativeToolTip": "RabbitMQ.ReqRes.Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:27:28.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.PubSub.Publisher\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.PubSub.Publisher\\Program.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.PubSub.Publisher\\Program.cs",
+              "RelativeToolTip": "RabbitMQ.PubSub.Publisher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:27:25.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.PubSub.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.PubSub.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.PubSub.Consumer\\Program.cs",
+              "RelativeToolTip": "RabbitMQ.PubSub.Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:27:21.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.P2P.Publisher\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.P2P.Publisher\\Program.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.P2P.Publisher\\Program.cs",
+              "RelativeToolTip": "RabbitMQ.P2P.Publisher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:27:13.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.P2P.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.P2P.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\alpay\\source\\repos\\RabbitMQ.Message.Templates\\RabbitMQ.P2P.Consumer\\Program.cs",
+              "RelativeToolTip": "RabbitMQ.P2P.Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:26:57.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
